@@ -1,3 +1,3 @@
-# 🎯 AULA-FUNDAMENTO-DE-INTELIGENCIA-ARTIFICIAL
+#  AULA-FUNDAMENTO-DE-INTELIGENCIA-ARTIFICIAL
 
-Neste repositório será alocado os meus  códigos das aulas de Inteligência Artificial
+Neste repositório será alocado os códigos das aulas de Inteligência Artificial.
